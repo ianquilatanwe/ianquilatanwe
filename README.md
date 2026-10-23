@@ -7,11 +7,20 @@ Frontend developer in Manila. I turn Figma designs into responsive UI for web (R
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · Flutter · Dart · REST APIs · Figma · Git
 
-### Public work
+### Featured: Figma → Next.js
 
-| Demo | What it shows | Live |
-| --- | --- | --- |
-| [Product listing](https://github.com/ianquilatanwe/product-listing-demo) | Figma → responsive Next.js + Tailwind store: live product API, cart and quick view, loading/empty/error states, works offline (service worker) | _coming soon_ |
+**[FashionHub product listing](https://github.com/ianquilatanwe/product-listing-demo)** · Live: _coming soon_
+
+I took a free Figma Community e-commerce design and built it as a working, responsive store in Next.js + Tailwind CSS.
+
+[![Figma design next to the built page](assets/figma-vs-build.png)](https://github.com/ianquilatanwe/product-listing-demo)
+
+- **Matches the design:** header, promo banner, filter pills, product cards and pagination, from 375px phones to 1440px desktops.
+- **Fills in what a static design leaves out:** hover, focus, loading, empty, error and offline states, plus every button state (Adding… → ✓ Added, Out of stock).
+- **Made it real:** the placeholder pills became working search, category, shortlist and sort; the cards load ~200 live products from a REST API; cart with Undo and a Quick View dialog.
+- **Fixed the design where it failed:** its light greys failed WCAG contrast (2.6:1), so I used the kit's darker grey (4.8:1). 0 axe violations, keyboard-friendly.
+
+Design by Kirit Goti ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) · data from DummyJSON.
 
 Most of my production work is in private company repos, so these demos are small public examples of the same kind of work.
 
