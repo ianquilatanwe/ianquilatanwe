@@ -11,7 +11,7 @@ Frontend developer in Manila. I turn Figma designs into responsive UI for web (R
 
 | Demo | What it shows | Live |
 | --- | --- | --- |
-| [Product listing](https://github.com/ianquilatanwe/product-listing-demo) | Figma → responsive Next.js + Tailwind page, product API with search and loading, empty and error states | _coming soon_ |
+| [Product listing](https://github.com/ianquilatanwe/product-listing-demo) | Figma → responsive Next.js + Tailwind store: live product API, cart and quick view, loading/empty/error states, works offline (service worker) | _coming soon_ |
 
 Most of my production work is in private company repos, so these demos are small public examples of the same kind of work.
 
