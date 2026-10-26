@@ -21,4 +21,4 @@ Most of my production work is in private company repos, so these demos are small
 Small, clearly scoped fixed-price tasks: UI from Figma, frontend bug fixes, API wiring, responsive layouts.
 I work 12 PM – 11 PM Manila time (overlaps US East Coast mornings) and reply the same day.
 
-[Hire me on Upwork](https://www.upwork.com/freelancers/~011c7ba66b3e0501a5) · ✉️ [ianquilatan.we@gmail.com](mailto:ianquilatan.we@gmail.com)
+[Hire me on Upwork](https://www.upwork.com/freelancers/ianquilatan) · ✉️ [ianquilatan.we@gmail.com](mailto:ianquilatan.we@gmail.com)
